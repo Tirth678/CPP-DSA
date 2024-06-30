@@ -12,3 +12,5 @@ int main(){
 
     return 0;
 }
+// how is this 4?
+// ans:
