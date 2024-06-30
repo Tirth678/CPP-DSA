@@ -13,4 +13,5 @@ int main(){
     return 0;
 }
 // how is this 4?
-// ans:
+// ans: because y/x = 2.5 and since it is an integer it will be demoted to 2
+// so 2*2 = 4
