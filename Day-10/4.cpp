@@ -14,6 +14,7 @@ int main(){
     cout<<*(arr+4)<<endl;
     // agar arr[0] = 1000 hoga to value 1000 hi print hogi
     // reason: pass by reference ho rha isiiye value change ho jayegi
+    // size of this int pointer = 8 because size of pointer print hoga
     
 
 
