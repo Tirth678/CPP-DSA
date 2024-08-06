@@ -9,7 +9,7 @@ int main(){
     cin>>b;
     cout<<"enter the third value"<<endl;
     cin>>c;
-    int max;
+    int max=a;
     if(a>b){
         max = a;
     }
