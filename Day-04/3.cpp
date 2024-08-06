@@ -9,7 +9,8 @@ int main(){
         cout<<"tax applied 0%";
     }
 
-    else if(income>50000 or income<1000000){
+    else if(income>50000 &&
+        income<1000000){
         cout<<"tax applied 20% = "<<income*0.2<<endl;
         
     }
