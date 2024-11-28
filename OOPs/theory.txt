@@ -10,3 +10,8 @@ here teacher is an object and it has some properties and methods(functions)
 teacher{
     name, dept, subject, salary, changedip()
 }
+
+class = blue print
+object = teacher
+now we can create multiple objects with properties
+ 
