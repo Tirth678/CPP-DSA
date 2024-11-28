@@ -1,0 +1,12 @@
+Classes and Objects
+
+objects: are real life enteties 
+class: is like a huge blueprint of these enteties
+
+objects can have properties
+such as 
+here teacher is an object and it has some properties and methods(functions)
+
+teacher{
+    name, dept, subject, salary, changedip()
+}
