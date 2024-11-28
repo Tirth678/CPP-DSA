@@ -15,3 +15,9 @@ class = blue print
 object = teacher
 now we can create multiple objects with properties
  
+Acess Modifiers:
+Private = date and methods accessible inside class
+Public = date and methods accessible to everyone
+Protected = data and methods acessible inside class and to its derived class
+
+By default in C++ everything is private, so writing public is must
