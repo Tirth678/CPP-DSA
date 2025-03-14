@@ -8,7 +8,7 @@ void printSubarrays(int arr[], int n){
             for(int i=start; i<=end; i++){
                 cout<<arr[i];
             }
-            cout<<",";
+            cout<<",";  
         }
         cout<<endl;
     }
@@ -17,6 +17,7 @@ int main(){
     int arr[5] = {1,2,3,4,5};
     int n = 5;
     printSubarrays(arr, n);
+    cout<<",";
 
     return 0;
 }
