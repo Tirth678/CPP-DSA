@@ -21,3 +21,5 @@ int main(){
 
     return 0;
 }
+// kisi bhi n size ke array ke liye kitne subarrays hote hai
+// n*(n+1)/2

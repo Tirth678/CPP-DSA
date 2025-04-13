@@ -19,5 +19,10 @@ class TA : public Teacher, public Student{
     string name;
 };
 int main(){
+ TA t1;
+ t1.salary;
+ t1.cgpa;
+ t1.name;
+ 
     return 0;
 }
